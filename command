@@ -16,3 +16,25 @@ git status
 git reset "fileName"
 gedit .gitignore
 'file name start with . is hidden in .gitignore we put the name of ignored file by git'
+git branch "name"
+git branch
+'check branch'
+git checkout "name"
+git branch
+git push -u origin "name"
+git checkout master
+git pull origin master
+git merge "name"
+git push origin master
+git branch -a
+git checkout master
+git branch --merged
+git merge "name"
+git push origin master
+git branch --merged
+git branch -d "name"
+'delete branch locally'
+git branch -a
+git push origin --delete "name"
+'delete branch from remote repository'
+git branch -a
