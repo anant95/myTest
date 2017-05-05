@@ -10,4 +10,4 @@ git reset --hard HEAD^
 git pull origin master
 'take github acount file on your computer'
 git clone https://github.com/*username*/*repository*.git
-'made the whole reporatory on the computer'
+'made the whole folder on the computer'
