@@ -38,3 +38,5 @@ git branch -a
 git push origin --delete "name"
 'delete branch from remote repository'
 git branch -a
+
+git commit --ammend -m "to change the message without new commit"
